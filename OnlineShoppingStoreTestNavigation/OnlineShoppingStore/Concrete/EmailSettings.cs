@@ -11,7 +11,7 @@ namespace OnlineShoppingStore.Concrete
         public string MailFromAddress = "projectthreejustit@gmail.com";
         public bool UseSsl = true;
         public string Username = "projectthreejustit@gmail.com";
-        public string Password = "Password100";
+        public string Password = "*******";
         public string ServerName = "smtp.gmail.com";
         public int ServerPort = 587;
     }
